@@ -782,7 +782,7 @@ box-shadow: 0 0 0 3px #cde1f8;
 }
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #CA4E29;
+  background-color: #ca4e29c7;
 }
 
 /*--------------------------------------------------------------
