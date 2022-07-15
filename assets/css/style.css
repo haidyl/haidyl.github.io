@@ -405,7 +405,7 @@ box-shadow: 0 0 0 3px #cde1f8;
   outline: 0;
 }
 .button:hover {
-  background-color: #261c38;
+  background-color: #1e1e1e;
   color: #fff;
   transition: all 500ms ease;
 }
@@ -1095,7 +1095,7 @@ box-shadow: 0 0 0 3px #cde1f8;
   transition: 0.4s;
 }
 .php-email-form button[type=submit]:hover {
-  background: #d7481ee6;/*#CA4E29;*/
+  background: #1e1e1e;/*#CA4E29;*/
 }
 
 @-webkit-keyframes animate-loading {
