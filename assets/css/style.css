@@ -245,6 +245,10 @@ box-shadow: 0 0 0 3px #cde1f8;
   margin-right: 10px;
 }
 
+.list-ico a{
+	text-decoration: unset;
+}
+
 .socials .ico-circle {
   font-size: 2rem;
   box-shadow: unset;
@@ -321,7 +325,7 @@ box-shadow: 0 0 0 3px #cde1f8;
   visibility: hidden;
   opacity: 0;
   right: 15px;
-  bottom: 15px;
+  bottom: 30px;
   z-index: 996;
   background: #00000057;
   width: 40px;
@@ -1036,6 +1040,10 @@ box-shadow: 0 0 0 3px #cde1f8;
     margin-top: 3rem;
     padding-left: 0rem;
   }
+}
+
+.gmap-area{
+margin-top: 4rem;
 }
 
 .php-email-form .error-message {
