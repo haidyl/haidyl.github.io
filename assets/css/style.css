@@ -1046,6 +1046,12 @@ box-shadow: 0 0 0 3px #cde1f8;
 margin-top: 4rem;
 }
 
+@media (max-width:767px) {
+	.gmap-area iframe{
+	width:100%;
+	}	
+}
+
 .php-email-form .error-message {
   display: none;
   color: #fff;
