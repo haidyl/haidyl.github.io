@@ -1046,9 +1046,9 @@ box-shadow: 0 0 0 3px #cde1f8;
 margin-top: 4rem;
 }
 
-@media (max-width:767px) {
+@media (max-width:991px) {
 	.gmap-area iframe{
-	width:100%;
+	width:100% !important;
 	}	
 }
 
