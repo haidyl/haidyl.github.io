@@ -827,6 +827,7 @@ box-shadow: 0 0 0 3px #cde1f8;
 }
 .service-box .s-description {
   color: #4e4e4e;
+  word-break: break-word;
 }
 
 /*--------------------------------------------------------------
