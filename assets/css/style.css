@@ -952,8 +952,8 @@ box-shadow: 0 0 0 3px #cde1f8;
 }
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
-  font-weight: 300;
-  /* margin-bottom: 20px; */
+  /*font-weight: 300;
+   margin-bottom: 20px; */
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
@@ -965,6 +965,15 @@ border: 10px solid #e3dada;
 
 .portfolio-details .portfolio-description .bod {
 border-bottom: 1px solid #dee2e6;
+}
+
+.portfolio-details .portfolio-description a {
+	color:#CA4E29; 
+  text-decoration: underline;
+}
+
+.portfolio-details .portfolio-info .h5, .h6, .h2{
+  font-weight:300;
 }
 
 .portfolio-info a{
