@@ -680,7 +680,7 @@ box-shadow: 0 0 0 3px #cde1f8;
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  height: 70vh; /*+-100vh*/
+  height: 70vh; /*100vh*/
   position: relative;
   color: #fff;
 }
