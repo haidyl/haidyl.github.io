@@ -979,6 +979,7 @@ border-bottom: 1px solid #dee2e6;
 .portfolio-info a{
 	color:#CA4E29; 
 	text-decoration:underline;
+  font-weight: 400;
 }
 
 /*--------------------------------------------------------------
