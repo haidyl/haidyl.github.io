@@ -973,7 +973,7 @@ border-bottom: 1px solid #dee2e6;
 }
 
 .portfolio-details .portfolio-info .h5, .h6, .h2{
-  font-weight:300;
+  font-weight:unset !important;
 }
 
 .portfolio-info a{
