@@ -680,7 +680,7 @@ box-shadow: 0 0 0 3px #cde1f8;
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  height: 100vh;
+  height: 70vh; /*+-100vh*/
   position: relative;
   color: #fff;
 }
@@ -1351,3 +1351,11 @@ footer .credits {
 footer .credits a {
   color: transparent;
 }
+
+
+/*--------------------------------------------------------------
+# Overrides
+---------------------------------------------------------------*/
+.bi-box-arrow-up-right::before{
+  font-size: smaller !important;
+};
