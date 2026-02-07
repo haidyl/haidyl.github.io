@@ -789,6 +789,32 @@ box-shadow: 0 0 0 3px #cde1f8;
   background-color: #CA4E29;
 }
 
+
+.about-info{
+  .about-box-2 {
+  margin-bottom: 3rem;
+}
+
+.about-left {
+  font-size: 1.25rem;
+  position: relative;
+  font-weight: bold;
+}
+.about-left:before {
+  content: "";
+  position: absolute;
+  height: 1px;
+  background-color: #CA4E29;
+  width: 50px;
+  bottom: -8px;
+}
+.about-right {
+  font-size: 1.25rem;
+  position: relative;
+}
+
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
