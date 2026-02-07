@@ -327,7 +327,7 @@ box-shadow: 0 0 0 3px #cde1f8;
   right: 15px;
   bottom: 30px;
   z-index: 996;
-  background: #00000057;
+  background: #00000080;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -339,7 +339,7 @@ box-shadow: 0 0 0 3px #cde1f8;
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #CA4E29b0;
+  background: #CA4E29;
   color: #fff;
 }
 .back-to-top.active {
